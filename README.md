@@ -1,8 +1,10 @@
-# SnowAdventure
+# [UE4] SnowAdventure
 
-## 스노우 어드벤처⛄ | XR콘텐츠 개발 첫 프로젝트
+## 스노우 어드벤처⛄ | 블루프린트를 이용한 Unreal Toy Game
 
-### 한국전파진흥협회(RAPA) XR콘텐츠 개발 화목금 분반 최씨정권 팀입니다.
+### 한국전파진흥협회(RAPA) XR콘텐츠 개발 화목금 분반
+
+#### Team 최씨정권
 
 ---
 
@@ -26,7 +28,8 @@
 
 ### Move
 
-W, A, S, D 키를 이용하여 움직임
+W, A, S, D 키를 이용하여 움직임<br>
+3인칭 카메라 셋팅
 
 ### Attack
 
@@ -40,18 +43,19 @@ W, A, S, D 키를 이용하여 움직임
 
 적을 죽였을 때 Kill Count 구현<br><br>
 
-### HP / MP
+### HP / MP / Inventory
 
-HP와 MP Bar 구현<br>
+HP와 MP Bar / Inventory 구현<br>
 HP는 단풍잎 아이템을 통해서 회복<br>
 MP는 시간이 지나면 자동으로 조금씩 회복<br>
+습득한 단풍잎은 Inventory에 표시하고 F키를 통해 사용 가능<br>
 
 ### Warning Event
 
 HP 잔량이 얼마 남지 않았을 때 경고음<br>
 화면을 붉게 표시하여 위험 알림<br>
 
-###
+### 
 
 ---
 
